@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2.cpp
+E:\GitHubRepo\Baekjoon2630\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(69,6): warning C4101: 'confetti' :참조되지 않은 지역 변수입니다.
+  ConsoleApplication2.vcxproj -> E:\GitHubRepo\Baekjoon2630\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
